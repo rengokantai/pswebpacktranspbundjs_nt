@@ -38,6 +38,7 @@ module:{
               modules:false,
               targets:{
                 browsers:['last 2 chrome versions']
+                //browsers:['> 1%']
               }
             }
           ]
